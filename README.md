@@ -10,7 +10,7 @@ We provide a brief manual, which explains how to use our package step by step.
 
 # Toy example
 Please read the manual first.
-To experience our package with toy data, please follow the link below:
+To experience our package with toy data (available here), please follow the link below:
 
 https://dhdnqkrtk22.shinyapps.io/shinymetid/
 
