@@ -5,9 +5,9 @@ It is developed by using R shiny and include many different similarity measures.
 # Code
 It is available here. Please download "ShinyMetID code.zip" file.
 
-# Manual (video clip)
+# Video Manual 
 We provide a brief manual, which explains how to use our package step by step.
-
+Please look at the video clip "video manual.mp4"
 
 # Toy example
 Please read the manual first.
